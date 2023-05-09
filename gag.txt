@@ -1,0 +1,10 @@
+
+              These are some of the projects I developed during the course.
+              <br /><br />
+              The course was focused on learning <span>HTML</span> and
+              <span>CSS</span>
+              technologies, during the course I was able to develop different
+              types of projects also dealing with the semantic part of HTML and
+              the importance of Design on web pages.
+
+              https://github.com/gabxoto/Aula-7Remake
